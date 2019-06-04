@@ -1,0 +1,8 @@
+.container .row div {
+  background-color: yellow; }
+  .container .row div:nth-child(2n) {
+    background-color: green; }
+  .container .row div:nth-child(3n) {
+    background-color: red; }
+
+/*# sourceMappingURL=style.css.map */
